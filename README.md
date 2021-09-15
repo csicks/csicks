@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to csicks's Homepage!
+Welcome to csicks's Homepage! Feel free to explore everything!
 
 <!--
 **csicks/csicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
