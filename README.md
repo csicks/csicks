@@ -2,6 +2,8 @@
 
 Welcome to csicks's Homepage! Feel free to explore everything!
 
+[![csicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=csicks&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **csicks/csicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
